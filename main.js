@@ -7,6 +7,6 @@ module.exports = {
 }
 }
 
-module.exports.uploadModelOnForge("160765-000-MASTER_STRUCT_detached.rvt",
-"./models/160765-000-MASTER_STRUCT_detached.rvt"
- )
+// module.exports.uploadModelOnForge("160765-000-MASTER_STRUCT_detached.rvt",
+// "./models/160765-000-MASTER_STRUCT_detached.rvt"
+//  )

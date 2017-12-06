@@ -1,5 +1,5 @@
 {
-  "name": "modelderivative-nodejs-tutorial",
+  "name": "forge-model-uploader",
   "version": "1.0.0",
   "description": "tutorial using forge api npm",
   "main": "index.js",
@@ -26,5 +26,6 @@
     "forge-apis": "^0.3.0",
     "fs": "0.0.1-security",
     "guid": "0.0.12"
-  }
+  },
+  "devDependencies": {}
 }
